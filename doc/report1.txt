@@ -1,0 +1,2 @@
+Student name: Cordea Corina Student group: 30432 Course id: 1 Course name: NC
+Student name: Cordea Corina Student group: 30432 Course id: 2 Course name: PT
